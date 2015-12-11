@@ -1,2 +1,4 @@
-# RDSTEMposiumPage
-A proof of concept for the webpage of the River Dell HS STEMposium (in development)
+# River Dell HS STEMposium Page
+This is the repo for the development of the STEMposium site.
+
+This repo serves only for the development of the site, and will be moved elsewhere once finished.
