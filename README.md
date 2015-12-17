@@ -5,4 +5,6 @@ This repo serves only for the development of the site, and will be moved elsewhe
 
 # Contributors
 
-<b>Test</b>
+<b>Michael Vasile (Michaelvas17)</b>: Project Lead
+<b>Gregory Sarafian (GregSarafian)</b>: Script Developer
+<b>Matthew Lu (Stalasphyx)</b>: Design & Proofing
