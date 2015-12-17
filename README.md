@@ -11,4 +11,6 @@ This repo serves only for the development of the site, and will be moved elsewhe
 
 <b>Matthew Lu (Stalasphyx)</b>: Design & Proofing
 
-<b>Alyssa Kim</b>: Content & Word Specialist.
+<b>Alyssa Kim (alyssakim25)</b>: Content & Word Specialist.
+
+<b>Sean Kee (MrSkee)</b>: I don't know.
