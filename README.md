@@ -10,3 +10,5 @@ This repo serves only for the development of the site, and will be moved elsewhe
 <b>Gregory Sarafian (GregSarafian)</b>: Script Developer
 
 <b>Matthew Lu (Stalasphyx)</b>: Design & Proofing
+
+<b>Alyssa Kim</b>: Content & Word Specialist.
