@@ -2,3 +2,7 @@
 This is the repo for the development of the STEMposium site.
 
 This repo serves only for the development of the site, and will be moved elsewhere once finished.
+
+# Contributors
+
+<b>Test</b>
