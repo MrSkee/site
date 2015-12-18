@@ -5,12 +5,12 @@ This repo serves only for the development of the site, and will be moved elsewhe
 
 # Contributors
 
-<b>Michael Vasile (Michaelvas17)</b>: Project Lead
+<b>Michael Vasile (Michaelvas17)</b>: Website Overlord.
 
-<b>Gregory Sarafian (GregSarafian)</b>: Script Developer
+<b>Gregory Sarafian (GregSarafian)</b>: Script Master.
 
-<b>Matthew Lu (Stalasphyx)</b>: Design & Proofing
+<b>Matthew Lu (Stalasphyx)</b>: Proofing Extraordinaire.
 
 <b>Alyssa Kim (alyssakim25)</b>: Content & Word Specialist.
 
-<b>Sean Kee (MrSkee)</b>: Executive Helper
+<b>Sean Kee (MrSkee)</b>: Executive Gofer.
