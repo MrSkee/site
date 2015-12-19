@@ -9,7 +9,7 @@ This repo serves only for the development of the site, and will be moved elsewhe
 
 <b>Gregory Sarafian (GregSarafian)</b>: Script Master.
 
-<b>Matthew Lu (Stalasphyx)</b>: Proofing Extraordinaire.
+<b>Matthew Lu (Stalasphyx)</b>: Proofing Virtuoso.
 
 <b>Alyssa Kim (alyssakim25)</b>: Content & Word Specialist.
 
