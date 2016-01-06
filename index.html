@@ -16,6 +16,12 @@
 
 
 <body>
+	<div class="error-container">
+	<div class="alert alert-warning alert-dismissible browser-obsolete" role="alert">
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+  <strong>Warning!</strong> You are using a web browser that isn't supported. Consider updating to a modern browser
+</div>
+</div>
 <nav class="navbar navbar-default navbar-fixed-top">
     <div class="container">
         <!-- Brand and toggle get grouped for better mobile display -->
@@ -53,12 +59,7 @@
     <!-- /.container-fluid -->
 </nav>
 
-<div class="error-container">
-	<div class="alert alert-warning alert-dismissible" role="alert">
-  <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-  <strong>Warning!</strong> Better check yourself, you're not looking too good.
-</div>
-</div>
+
 
 
 <header id="top">
@@ -544,9 +545,8 @@ a.hover {
     color: #0084FF;
 }
 
-div .error-container {
-     margin-top:10px;
-     position: fixed;
+.browser-obsolete {
+  margin-bottom:0;
 }
 
 </style>
