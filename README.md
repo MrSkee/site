@@ -7,7 +7,7 @@ This repo serves only for the development of the site, and will be moved elsewhe
 
 <b>Michael Vasile (Michaelvas17)</b>: Website Overlord.
 
-<b>Gregory Sarafian (GregSarafian)</b>: Script Master.
+<b>Gregory Sarafian (GregSarafian)</b>: Design & Script Master.
 
 <b>Matthew Lu (Stalasphyx)</b>: Proofing Virtuoso.
 
